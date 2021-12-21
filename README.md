@@ -1,8 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Harshit Kumar and I'm a software developer. I'm from India, living in Karnataka. You can find me on [Twitter](https://twitter.com/HarshuboiPlayz) [Youtube](https://www.youtube.com/channel/UC3I69i3CKDKivksUBGPKEYA) And [Discord](https://discord.com/users/838650497828651040) , My Partners Are 
-## Attachment-Studios - [Github](https://github.com/Attachment-Studios), [Discord](discord.com/users/781701773713997824)
-## NotSG - [Github](https://github.com/NotSGYt), [Discord](discord.com/users/877896499487457301)
+## Attachment-Studios - [Github](https://github.com/Attachment-Studios), [Discord](https://discord.com/users/781701773713997824)
+## NotSG - [Github](https://github.com/NotSGYt), [Discord](https://discord.com/users/877896499487457301)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
