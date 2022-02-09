@@ -23,7 +23,7 @@ My name is Harshit Kumar and I'm a software developer. I'm from India, living in
 </a>
 
 # Discord Status
-<img src="https://discord.c99.nl/widget/theme-3/838650497828651040.png">
+<img src="https://discord.c99.nl/widget/theme-2/838650497828651040.png">
 
 
 <!-- links to social media icons -->
