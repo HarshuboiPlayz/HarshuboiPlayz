@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
 
-My name is Harshit Kumar and I'm a software developer. I'm from India, living in Karnataka. You can find me on [Twitter](https://twitter.com/HarshuboiPlayz) [Youtube](https://www.youtube.com/channel/UC3I69i3CKDKivksUBGPKEYA) And [Discord](https://discord.com/users/838650497828651040) , My Partners Are 
+My name is Harshit Kumar and I'm a Student. I'm from India, living in Karnataka. You can find me on [Twitter](https://twitter.com/HarshuboiPlayz) [Youtube](https://www.youtube.com/channel/UC3I69i3CKDKivksUBGPKEYA) And [Discord](https://discord.com/users/838650497828651040) , My Partners Are 
 ## Attachment-Studios - [Github](https://github.com/Attachment-Studios), [Discord](https://discord.com/users/781701773713997824)
 ## NotSG - [Github](https://github.com/NotSGYt), [Discord](https://discord.com/users/877896499487457301)
 
