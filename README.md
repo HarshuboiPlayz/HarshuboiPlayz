@@ -7,12 +7,17 @@ My name is Harshit Kumar and I'm a Student. I'm from India, living in Karnataka.
 ![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=Vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=harshuboiplayz)
+
+
 ## &#x1f4c8; GitHub Stats
 
 <p align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshuboiPlayz&theme=dracula">
 </p>
-## Profile Visits: <img src="https://c.andyhoppe.com/1662822712" style="border:none" alt="Counter"/>
+
 <a href="https://github.com/HarshuboiPlayz/HarshuboiPlayz">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshuboiPlayz&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
